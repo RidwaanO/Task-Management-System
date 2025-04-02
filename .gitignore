@@ -1,0 +1,15 @@
+# Build outputs
+target/
+build/
+bin/
+
+# IDE
+.idea/
+*.iml
+
+# Dependency caches
+.gradle/
+.mvn/wrapper/
+
+# Logs
+*.log
